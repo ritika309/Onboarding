@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">onboard</string>
+    <string name="order_now">ORDER NOW</string>
+    <string name="fuel">Get fuel at your doorstep</string>
+</resources>
